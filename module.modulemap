@@ -1,0 +1,5 @@
+module CMS [system] {
+    header "shim.h"
+    link "ssl"
+    link "crypto"
+}

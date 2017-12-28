@@ -1,0 +1,14 @@
+## Build generated
+build/
+DerivedData/
+
+## Xcode project
+*.xcodeproj
+
+# Swift Package Manager
+.build/
+
+# CLion
+.idea/
+CMakeLists.txt
+cmake-build-debug/
